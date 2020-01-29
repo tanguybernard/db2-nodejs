@@ -19,3 +19,8 @@
 ### To retrieve values form a table
 
     db2 "select * from <schema>.<table>"
+
+
+## Usefull documentation
+
+- https://www.db2tutorial.com/
