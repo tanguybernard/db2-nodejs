@@ -1,8 +1,14 @@
 # db2
 
-## Launch db2 instance
+## Install
+
+### Up containers
 
     docker-compose up
+    
+### Launch script (just display table __FRUITS.APPLE__ inside DB)
+
+    docker-compose up app   
 
 
 ## Usefull Command
