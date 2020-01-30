@@ -6,7 +6,7 @@
 
     docker-compose up
     
-### Launch script (just display table __FRUITS.APPLE__ inside DB)
+### Launch script (just display the data from table __FRUITS.APPLE__)
 
     docker-compose up app   
 
