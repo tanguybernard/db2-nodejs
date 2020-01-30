@@ -26,6 +26,11 @@
 
     db2 "select * from <schema>.<table>"
 
+### To set the communication protocol for the instance
+
+    db2set DB2COMM=TCPIP
+    db2stop
+    db2start
 
 ## Usefull documentation
 
